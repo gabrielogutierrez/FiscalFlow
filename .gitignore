@@ -1,0 +1,31 @@
+# Build artifacts
+**/bin/
+**/obj/
+**/Debug/
+**/Release/
+
+# IDE files
+.vs/
+**/.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+
+# Frontend dependencies and output
+**/node_modules/
+**/dist/
+**/.vite/
+
+# Logs and local files
+**/Logs/
+*.log
+.DS_Store
+Thumbs.db
+
+# Secrets and local environment
+.env
+.env.*
+!.env.example
+**/appsettings.secrets.json
+**/appsettings.*.local.json
