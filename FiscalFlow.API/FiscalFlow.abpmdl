@@ -1,0 +1,93 @@
+{
+  "template": "app",
+  "imports": {
+    "Volo.Abp.LeptonXLiteTheme": {
+      "version": "5.6.0",
+      "isInstalled": true,
+      "creationTime": "08/24/2026 13:12:00 +00:00"
+    },
+    "Volo.Abp.Account": {
+      "version": "10.6.0",
+      "isInstalled": true,
+      "creationTime": "08/24/2026 13:12:00 +00:00"
+    },
+    "Volo.Abp.OpenIddict": {
+      "version": "10.6.0",
+      "isInstalled": true,
+      "creationTime": "08/24/2026 13:12:00 +00:00"
+    },
+    "Volo.Abp.Identity": {
+      "version": "10.6.0",
+      "isInstalled": true,
+      "creationTime": "08/24/2026 13:12:00 +00:00"
+    },
+    "Volo.Abp.TenantManagement": {
+      "version": "10.6.0",
+      "isInstalled": true,
+      "creationTime": "08/24/2026 13:12:00 +00:00"
+    },
+    "Volo.Abp.SettingManagement": {
+      "version": "10.6.0",
+      "isInstalled": true,
+      "creationTime": "08/24/2026 13:12:00 +00:00"
+    },
+    "Volo.Abp.PermissionManagement": {
+      "version": "10.6.0",
+      "isInstalled": true,
+      "creationTime": "08/24/2026 13:12:00 +00:00"
+    },
+    "Volo.Abp.FeatureManagement": {
+      "version": "10.6.0",
+      "isInstalled": true,
+      "creationTime": "08/24/2026 13:12:00 +00:00"
+    },
+    "Volo.Abp.BlobStoring.Database": {
+      "version": "10.6.0",
+      "isInstalled": true,
+      "creationTime": "08/24/2026 13:12:00 +00:00"
+    }
+  },
+  "folders": {
+    "items": {
+      "src": {}
+    }
+  },
+  "packages": {
+    "FiscalFlow.Application": {
+      "path": "src/FiscalFlow.Application/FiscalFlow.Application.abppkg",
+      "folder": "src"
+    },
+    "FiscalFlow.Domain.Shared": {
+      "path": "src/FiscalFlow.Domain.Shared/FiscalFlow.Domain.Shared.abppkg",
+      "folder": "src"
+    },
+    "FiscalFlow.Application.Contracts": {
+      "path": "src/FiscalFlow.Application.Contracts/FiscalFlow.Application.Contracts.abppkg",
+      "folder": "src"
+    },
+    "FiscalFlow.HttpApi": {
+      "path": "src/FiscalFlow.HttpApi/FiscalFlow.HttpApi.abppkg",
+      "folder": "src"
+    },
+    "FiscalFlow.HttpApi.Client": {
+      "path": "src/FiscalFlow.HttpApi.Client/FiscalFlow.HttpApi.Client.abppkg",
+      "folder": "src"
+    },
+    "FiscalFlow.EntityFrameworkCore": {
+      "path": "src/FiscalFlow.EntityFrameworkCore/FiscalFlow.EntityFrameworkCore.abppkg",
+      "folder": "src"
+    },
+    "FiscalFlow.DbMigrator": {
+      "path": "src/FiscalFlow.DbMigrator/FiscalFlow.DbMigrator.abppkg",
+      "folder": "src"
+    },
+    "FiscalFlow.HttpApi.Host": {
+      "path": "src/FiscalFlow.HttpApi.Host/FiscalFlow.HttpApi.Host.abppkg",
+      "folder": "src"
+    },
+    "FiscalFlow.Domain": {
+      "path": "src/FiscalFlow.Domain/FiscalFlow.Domain.abppkg",
+      "folder": "src"
+    }
+  }
+}

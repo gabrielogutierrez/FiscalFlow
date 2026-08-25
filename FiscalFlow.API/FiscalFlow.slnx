@@ -1,0 +1,14 @@
+<Solution>
+    <Folder Name="/src/">
+        <File Path="docker-compose.yml" />
+        <Project Path="src/FiscalFlow.Application.Contracts/FiscalFlow.Application.Contracts.csproj" />
+        <Project Path="src/FiscalFlow.Application/FiscalFlow.Application.csproj" />
+        <Project Path="src/FiscalFlow.DbMigrator/FiscalFlow.DbMigrator.csproj" />
+        <Project Path="src/FiscalFlow.Domain.Shared/FiscalFlow.Domain.Shared.csproj" />
+        <Project Path="src/FiscalFlow.Domain/FiscalFlow.Domain.csproj" />
+        <Project Path="src/FiscalFlow.EntityFrameworkCore/FiscalFlow.EntityFrameworkCore.csproj" />
+        <Project Path="src/FiscalFlow.HttpApi.Client/FiscalFlow.HttpApi.Client.csproj" />
+        <Project Path="src/FiscalFlow.HttpApi.Host/FiscalFlow.HttpApi.Host.csproj" />
+        <Project Path="src/FiscalFlow.HttpApi/FiscalFlow.HttpApi.csproj" />
+    </Folder>
+</Solution>

@@ -1,0 +1,16 @@
+services:
+  postgres:
+    image: postgres:17
+    container_name: fiscalflow-postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: FiscalFlow
+      POSTGRES_USER: root
+      POSTGRES_PASSWORD: myPassword
+    ports:
+      - "5432:5432"
+    volumes:
+      - fiscalflow-postgres-data:/var/lib/postgresql/data
+
+volumes:
+  fiscalflow-postgres-data:

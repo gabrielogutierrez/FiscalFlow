@@ -1,0 +1,17 @@
+C:\Desenvolvimento\FiscalFlow\src\FiscalFlow.HttpApi.Client\bin\Debug\net10.0\FiscalFlow.HttpApi.Client.deps.json
+C:\Desenvolvimento\FiscalFlow\src\FiscalFlow.HttpApi.Client\bin\Debug\net10.0\FiscalFlow.HttpApi.Client.dll
+C:\Desenvolvimento\FiscalFlow\src\FiscalFlow.HttpApi.Client\bin\Debug\net10.0\FiscalFlow.HttpApi.Client.pdb
+C:\Desenvolvimento\FiscalFlow\src\FiscalFlow.HttpApi.Client\bin\Debug\net10.0\FiscalFlow.Application.Contracts.dll
+C:\Desenvolvimento\FiscalFlow\src\FiscalFlow.HttpApi.Client\bin\Debug\net10.0\FiscalFlow.Domain.Shared.dll
+C:\Desenvolvimento\FiscalFlow\src\FiscalFlow.HttpApi.Client\bin\Debug\net10.0\FiscalFlow.Application.Contracts.pdb
+C:\Desenvolvimento\FiscalFlow\src\FiscalFlow.HttpApi.Client\bin\Debug\net10.0\FiscalFlow.Domain.Shared.pdb
+C:\Desenvolvimento\FiscalFlow\src\FiscalFlow.HttpApi.Client\obj\Debug\net10.0\FiscalFlow.HttpApi.Client.csproj.AssemblyReference.cache
+C:\Desenvolvimento\FiscalFlow\src\FiscalFlow.HttpApi.Client\obj\Debug\net10.0\FiscalFlow.HttpApi.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desenvolvimento\FiscalFlow\src\FiscalFlow.HttpApi.Client\obj\Debug\net10.0\FiscalFlow.HttpApi.Client.AssemblyInfoInputs.cache
+C:\Desenvolvimento\FiscalFlow\src\FiscalFlow.HttpApi.Client\obj\Debug\net10.0\FiscalFlow.HttpApi.Client.AssemblyInfo.cs
+C:\Desenvolvimento\FiscalFlow\src\FiscalFlow.HttpApi.Client\obj\Debug\net10.0\FiscalFlow.HttpApi.Client.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento\FiscalFlow\src\FiscalFlow.HttpApi.Client\obj\Debug\net10.0\FiscalFl.8E449B04.Up2Date
+C:\Desenvolvimento\FiscalFlow\src\FiscalFlow.HttpApi.Client\obj\Debug\net10.0\FiscalFlow.HttpApi.Client.dll
+C:\Desenvolvimento\FiscalFlow\src\FiscalFlow.HttpApi.Client\obj\Debug\net10.0\refint\FiscalFlow.HttpApi.Client.dll
+C:\Desenvolvimento\FiscalFlow\src\FiscalFlow.HttpApi.Client\obj\Debug\net10.0\FiscalFlow.HttpApi.Client.pdb
+C:\Desenvolvimento\FiscalFlow\src\FiscalFlow.HttpApi.Client\obj\Debug\net10.0\ref\FiscalFlow.HttpApi.Client.dll

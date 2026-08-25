@@ -1,0 +1,13 @@
+C:\Desenvolvimento\FiscalFlow\src\FiscalFlow.Domain.Shared\bin\Debug\net10.0\FiscalFlow.Domain.Shared.deps.json
+C:\Desenvolvimento\FiscalFlow\src\FiscalFlow.Domain.Shared\bin\Debug\net10.0\FiscalFlow.Domain.Shared.dll
+C:\Desenvolvimento\FiscalFlow\src\FiscalFlow.Domain.Shared\bin\Debug\net10.0\FiscalFlow.Domain.Shared.pdb
+C:\Desenvolvimento\FiscalFlow\src\FiscalFlow.Domain.Shared\obj\Debug\net10.0\FiscalFlow.Domain.Shared.csproj.AssemblyReference.cache
+C:\Desenvolvimento\FiscalFlow\src\FiscalFlow.Domain.Shared\obj\Debug\net10.0\FiscalFlow.Domain.Shared.EmbeddedFilesManifest.cache
+C:\Desenvolvimento\FiscalFlow\src\FiscalFlow.Domain.Shared\obj\Debug\net10.0\FiscalFlow.Domain.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desenvolvimento\FiscalFlow\src\FiscalFlow.Domain.Shared\obj\Debug\net10.0\FiscalFlow.Domain.Shared.AssemblyInfoInputs.cache
+C:\Desenvolvimento\FiscalFlow\src\FiscalFlow.Domain.Shared\obj\Debug\net10.0\FiscalFlow.Domain.Shared.AssemblyInfo.cs
+C:\Desenvolvimento\FiscalFlow\src\FiscalFlow.Domain.Shared\obj\Debug\net10.0\FiscalFlow.Domain.Shared.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento\FiscalFlow\src\FiscalFlow.Domain.Shared\obj\Debug\net10.0\FiscalFlow.Domain.Shared.dll
+C:\Desenvolvimento\FiscalFlow\src\FiscalFlow.Domain.Shared\obj\Debug\net10.0\refint\FiscalFlow.Domain.Shared.dll
+C:\Desenvolvimento\FiscalFlow\src\FiscalFlow.Domain.Shared\obj\Debug\net10.0\FiscalFlow.Domain.Shared.pdb
+C:\Desenvolvimento\FiscalFlow\src\FiscalFlow.Domain.Shared\obj\Debug\net10.0\ref\FiscalFlow.Domain.Shared.dll

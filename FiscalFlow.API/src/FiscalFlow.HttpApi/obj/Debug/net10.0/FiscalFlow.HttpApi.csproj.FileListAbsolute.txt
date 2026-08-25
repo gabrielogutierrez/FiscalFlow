@@ -1,0 +1,17 @@
+C:\Desenvolvimento\FiscalFlow\src\FiscalFlow.HttpApi\bin\Debug\net10.0\FiscalFlow.HttpApi.deps.json
+C:\Desenvolvimento\FiscalFlow\src\FiscalFlow.HttpApi\bin\Debug\net10.0\FiscalFlow.HttpApi.dll
+C:\Desenvolvimento\FiscalFlow\src\FiscalFlow.HttpApi\bin\Debug\net10.0\FiscalFlow.HttpApi.pdb
+C:\Desenvolvimento\FiscalFlow\src\FiscalFlow.HttpApi\bin\Debug\net10.0\FiscalFlow.Application.Contracts.dll
+C:\Desenvolvimento\FiscalFlow\src\FiscalFlow.HttpApi\bin\Debug\net10.0\FiscalFlow.Domain.Shared.dll
+C:\Desenvolvimento\FiscalFlow\src\FiscalFlow.HttpApi\bin\Debug\net10.0\FiscalFlow.Application.Contracts.pdb
+C:\Desenvolvimento\FiscalFlow\src\FiscalFlow.HttpApi\bin\Debug\net10.0\FiscalFlow.Domain.Shared.pdb
+C:\Desenvolvimento\FiscalFlow\src\FiscalFlow.HttpApi\obj\Debug\net10.0\FiscalFlow.HttpApi.csproj.AssemblyReference.cache
+C:\Desenvolvimento\FiscalFlow\src\FiscalFlow.HttpApi\obj\Debug\net10.0\FiscalFlow.HttpApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desenvolvimento\FiscalFlow\src\FiscalFlow.HttpApi\obj\Debug\net10.0\FiscalFlow.HttpApi.AssemblyInfoInputs.cache
+C:\Desenvolvimento\FiscalFlow\src\FiscalFlow.HttpApi\obj\Debug\net10.0\FiscalFlow.HttpApi.AssemblyInfo.cs
+C:\Desenvolvimento\FiscalFlow\src\FiscalFlow.HttpApi\obj\Debug\net10.0\FiscalFlow.HttpApi.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento\FiscalFlow\src\FiscalFlow.HttpApi\obj\Debug\net10.0\FiscalFl.F128BCE9.Up2Date
+C:\Desenvolvimento\FiscalFlow\src\FiscalFlow.HttpApi\obj\Debug\net10.0\FiscalFlow.HttpApi.dll
+C:\Desenvolvimento\FiscalFlow\src\FiscalFlow.HttpApi\obj\Debug\net10.0\refint\FiscalFlow.HttpApi.dll
+C:\Desenvolvimento\FiscalFlow\src\FiscalFlow.HttpApi\obj\Debug\net10.0\FiscalFlow.HttpApi.pdb
+C:\Desenvolvimento\FiscalFlow\src\FiscalFlow.HttpApi\obj\Debug\net10.0\ref\FiscalFlow.HttpApi.dll

@@ -1,0 +1,15 @@
+C:\Desenvolvimento\FiscalFlow\src\FiscalFlow.Application.Contracts\bin\Debug\net10.0\FiscalFlow.Application.Contracts.deps.json
+C:\Desenvolvimento\FiscalFlow\src\FiscalFlow.Application.Contracts\bin\Debug\net10.0\FiscalFlow.Application.Contracts.dll
+C:\Desenvolvimento\FiscalFlow\src\FiscalFlow.Application.Contracts\bin\Debug\net10.0\FiscalFlow.Application.Contracts.pdb
+C:\Desenvolvimento\FiscalFlow\src\FiscalFlow.Application.Contracts\bin\Debug\net10.0\FiscalFlow.Domain.Shared.dll
+C:\Desenvolvimento\FiscalFlow\src\FiscalFlow.Application.Contracts\bin\Debug\net10.0\FiscalFlow.Domain.Shared.pdb
+C:\Desenvolvimento\FiscalFlow\src\FiscalFlow.Application.Contracts\obj\Debug\net10.0\FiscalFlow.Application.Contracts.csproj.AssemblyReference.cache
+C:\Desenvolvimento\FiscalFlow\src\FiscalFlow.Application.Contracts\obj\Debug\net10.0\FiscalFlow.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desenvolvimento\FiscalFlow\src\FiscalFlow.Application.Contracts\obj\Debug\net10.0\FiscalFlow.Application.Contracts.AssemblyInfoInputs.cache
+C:\Desenvolvimento\FiscalFlow\src\FiscalFlow.Application.Contracts\obj\Debug\net10.0\FiscalFlow.Application.Contracts.AssemblyInfo.cs
+C:\Desenvolvimento\FiscalFlow\src\FiscalFlow.Application.Contracts\obj\Debug\net10.0\FiscalFlow.Application.Contracts.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento\FiscalFlow\src\FiscalFlow.Application.Contracts\obj\Debug\net10.0\FiscalFl.7DE01BD9.Up2Date
+C:\Desenvolvimento\FiscalFlow\src\FiscalFlow.Application.Contracts\obj\Debug\net10.0\FiscalFlow.Application.Contracts.dll
+C:\Desenvolvimento\FiscalFlow\src\FiscalFlow.Application.Contracts\obj\Debug\net10.0\refint\FiscalFlow.Application.Contracts.dll
+C:\Desenvolvimento\FiscalFlow\src\FiscalFlow.Application.Contracts\obj\Debug\net10.0\FiscalFlow.Application.Contracts.pdb
+C:\Desenvolvimento\FiscalFlow\src\FiscalFlow.Application.Contracts\obj\Debug\net10.0\ref\FiscalFlow.Application.Contracts.dll
